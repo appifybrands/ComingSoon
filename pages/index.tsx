@@ -15,8 +15,8 @@ const IndexPage = () => (
     />
     <div className="relative z-10 py-6 space-y-12 lg:space-y-20 text-gray-900">
       <div className="text-center space-y-6">
-        <h3 className="font-light text-xl uppercase tracking-wider">About Us</h3>
-        <h1 className="text-4xl lg:text-6xl font-extrabold">About 361 Sports</h1>
+        <h3 className="font-light text-xl uppercase tracking-wider">361 Sports</h3>
+        <h1 className="text-4xl lg:text-6xl font-extrabold">Coming Soon</h1>
         <p className="text-lg lg:text-xl tracking-wide mx-6 lg:max-w-2xl lg:mx-auto">
           At 361 Sports, we design premium athletic shoes and performance accessories to empower athletes worldwide.
         </p>
